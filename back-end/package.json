@@ -2,5 +2,11 @@
   "name": "back-end",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "global": "^4.4.0",
+    "nodemon": "^2.0.12",
+    "trie-search": "^1.3.5"
+  }
 }

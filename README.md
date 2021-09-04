@@ -10,4 +10,6 @@ This task is about making a front-end do an autocomplete search against an autoc
 1. run `cd .. && cd front-end`
 2. run `yarn install`
 3. run `yarn start`
+## Run tests
+1. run `yarn run cypress open` 
 
